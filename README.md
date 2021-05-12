@@ -19,7 +19,7 @@ I'm Vipin Jaluthria currently BTech Sophomore in IIT Guwahati pursuing Electroni
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=Android&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/-Next.js-fff?style=for-the-badge&labelColor=black&logo=Next.js&logoColor=fff)](#) [![ Badge]()](#) [![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=Android&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](#)
 
 ### Tutorials
 
@@ -68,9 +68,6 @@ I'm Vipin Jaluthria currently BTech Sophomore in IIT Guwahati pursuing Electroni
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
@@ -89,9 +86,3 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
