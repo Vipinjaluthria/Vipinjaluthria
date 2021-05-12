@@ -1,19 +1,16 @@
 ## Hi I'm Vipin Jaluthria <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Vipin Jaluthria currently BTech Sophomore in IIT Guwahati pursuing Electronics and Electrical Engineering I am a App Development and Web Apps DApps enthusiast.
-
+I'm Vipin Jaluthria currently BTech Sophomore in IIT Guwahati pursuing Electronics and Electrical Engineering. I am a App and Web Apps enthusiast. I like to exploring more in Decentralised Application and Blockchain.
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vipin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@Vipin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-Vipin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vipin19@iitg.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-Vipin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-jaluthria-072a06197/) [![Mail Badge](https://img.shields.io/badge/-@Vipin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vip_itd/) [![Mail Badge](https://img.shields.io/badge/-Vipin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vipin19@iitg.ac.in)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on Decentralised App and Next js.
+- 🔭 I’m currently working on Decentralised App and Next.js.
+- I’m currently trying to learn and explore more and more technologies.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 
 - 📫 How to reach me: vipin19@iitg.ac.in.
--
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
 
@@ -47,4 +44,3 @@ I'm Vipin Jaluthria currently BTech Sophomore in IIT Guwahati pursuing Electroni
 #### Github Stats
 
 ![Vipin Jaluthria's github stats](https://github-readme-stats.vercel.app/api?username=Vipinjaluthria&count_private=true&theme=tokyonight&hide=contribs,prs)
-=
